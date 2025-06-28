@@ -17,5 +17,4 @@ Analysis of the Relationship between Trout Condition in the Great Smoky Mountain
 #### It is recommended to select the option to view the story in full screen mode at the bottom right corner of the page.  
 
 ## Contact Info
-### Karen Boles
-### [LinkedIn](https://www.linkedin.com/in/karen-boles/)
+### Karen Boles [LinkedIn](https://www.linkedin.com/in/karen-boles/)
