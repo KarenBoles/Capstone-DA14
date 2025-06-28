@@ -14,3 +14,4 @@ Analysis of the Relationship between Trout Condition in the Great Smoky Mountain
 #### 4. GitHub - Project version management and documentation
 
 ## Link to Tableau Story:  [Analysis of the Trout Condition in the streams of the Great Smoky Mountains National Park](https://public.tableau.com/app/profile/karen.boles/viz/Analysis_of_Fish_Condition/FishConditionStory)
+#### It is recommended to select the option to view the story in full screen mode at the bottom right corner of the page.  
